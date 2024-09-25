@@ -7,7 +7,7 @@ al igual que deseo mejorar dia tras dia en el ambito profesional, impulsando mi 
 con el futuro por delante.
 
 ## Curriculum 
-* CV: [Curriculum vitae]()
+* CV: [Curriculum vitae](file:///C:/Users/Acer%20Nitro%205/Downloads/QA%20Engineer.pdf)
 * [Aceso al linkedin](https://www.linkedin.com/in/%C3%A1mbar-ram%C3%B3n-quezada-8b5530280/)
 
 ## Contactos
