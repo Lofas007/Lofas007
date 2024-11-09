@@ -1,10 +1,7 @@
 # **QA engineer junior**
 
 ## Presentacion
-Hola, soy Ambar Ramon qa engenieer de profesion, mi interes en el mundo de la tecnologia empezo desde la primera vez que toque una nintendo 64 en su epoca dorada, apartir de ahi me pregunte como se creaban esas cosas
-peculiares y maravillosas hasta el punto que decidi montarme a la ola del cambio que conllevan todos los avances tecnologicos de hoy en dia, tengo muchas ganas de aprender y mejorar tanto en qa como en desarrollo backend
-al igual que deseo mejorar dia tras dia en el ambito profesional, impulsando mi carrera junto con los compañeros que tenga en el futuro. aunque no tengo mucha experiencia me esforzare mucho en aprender todo lo que venga
-con el futuro por delante.
+Hola, soy Ambar Ramon qa engineer/analyst de profesion, apasionada por la tecnología y el aseguramiento de la calidad, con formación en pruebas de software manual y conocimientos básicos en la creación y ejecución de casos de prueba. Familiarizado con las metodologías ágiles (Scrum) y el uso de herramientas de gestión de proyectos como Jira. Proactiva, detallista y con habilidades analíticas sólidas para identificar errores y asegurar la calidad de las aplicaciones. Busco aplicar mis conocimientos y habilidades en un entorno de trabajo dinámico, con el objetivo de crecer y desarrollarme como profesional en el campo del aseguramiento de calidad.
 
 ## Curriculum 
 * CV: [Curriculum vitae](file:///C:/Users/Acer%20Nitro%205/Downloads/QA%20Engineer.pdf)
