@@ -1,4 +1,4 @@
-# **QA engineer junior**
+# **QA Analyst/engineer junior**
 
 ## Presentacion
 Hola, soy Ambar Ramon qa engineer/analyst de profesion, apasionada por la tecnología y el aseguramiento de la calidad, con formación en pruebas de software manual y conocimientos básicos en la creación y ejecución de casos de prueba. Familiarizado con las metodologías ágiles (Scrum) y el uso de herramientas de gestión de proyectos como Jira. Proactiva, detallista y con habilidades analíticas sólidas para identificar errores y asegurar la calidad de las aplicaciones. Busco aplicar mis conocimientos y habilidades en un entorno de trabajo dinámico, con el objetivo de crecer y desarrollarme como profesional en el campo del aseguramiento de calidad.
